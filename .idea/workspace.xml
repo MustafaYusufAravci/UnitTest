@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7b74305-50d1-424f-bcd5-0606d8355279" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test00_TestingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test01_DisplayName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test02_ParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test03_RepeatTestMultipleTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test04_PerformansTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day2/Test05_GroupingTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f7b74305-50d1-424f-bcd5-0606d8355279" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
